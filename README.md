@@ -19,12 +19,10 @@
  
 ### Projects
 
-* [CheerSOPT](https://github.com/CheerSOPT/CheerSOPTAndroid) : 주종을 선택하면 제조 비율을 랜덤으로 정해주는 술자리 게임 앱 서비스 (27th SOPT Sopkathon)
 * [Weathy](https://github.com/TeamWeathy/WeathyAndroid) : 나에게 돌아오는 맟춤 날씨 서비스, Weathy (27th SOPT App-Jam)
 * [별헤는밤](https://github.com/21TourApiProject): 누구나 손쉽게 떠나는 스마트한 밤하늘 여행, 별 헤는 밤 (한국관광공사 2021 관광데이터 활용 공모전 ) 
-* [Teamble](https://github.com/Team-Teamble/Teamble-Server) : 서로 다른 색의 우리를 잇는 공간, Teamble (29th SOPT App-Jam)
-* [밍기적](https://github.com/Team-Ming/Ming-Server) : 기억하고 싶은 것을 적음으로써, '밍'과 함께 이루는 일상의 작은 기적 :) (30th SOPT Sopkathon)
-* [Packman](https://github.com/Team-Packman/Packman-Server-Release) : 내 손안의 짐 챙김 도우미, 팩맨 (30th SOPT App-Jam)
+* [Packman - Node](https://github.com/Team-Packman/Packman-Server-Release) : 내 손안의 짐 챙김 도우미, 팩맨 (30th SOPT App-Jam)
+* [Packman - Spring](https://github.com/Team-Packman/Packman-Server-Spring) : 내 손안의 짐 챙김 도우미, 팩맨 (30th SOPT App-Jam)
  </br>
  
 ![hyeonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingding-21&show_icons=true&theme=dracula&hide=stars)
