@@ -25,6 +25,6 @@
 * [Packman - Spring](https://github.com/Team-Packman/Packman-Server-Spring) : 내 손안의 짐 챙김 도우미, 팩맨 (30th SOPT App-Jam)
  </br>
  
-![hyeonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingding-21&show_icons=true&theme=dracula&hide=stars)
+![hyeonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon-z&show_icons=true&theme=dracula&hide=stars)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingding-21&layout=compact&theme=dracula)](https://github.com/dingding-21) -->
